@@ -18,4 +18,4 @@ def do_pack():
     if t_gzip_archive.succeeded:
         return archived_f_path
     else:
-        return None 
+        return None
